@@ -30,11 +30,6 @@ Files
     youtube_data_tool.py: Consists all the code formatted in nice block fashion.
     README.md: This file providing an overview of the repository and its contents.
 
-Usage
-
-    Ensure you have access to the YouTube data either through direct download or a database connection.
-    Run the SQL queries provided in queries.sql to extract relevant information from the dataset.
-    Customize the queries and analysis according to your specific requirements and research questions.
 
 Dependencies
 
@@ -45,9 +40,11 @@ Dependencies
     MongoDB client for python
     Pandas, Matplotlib, Seaborn (optional)
 
-Run the code
-    
-    streamlit run youtube_data_tool_UI.py
+
+Usage
+  
+    streamlit run youtube_data_tool_UI.py    
+  
 
 License
 
