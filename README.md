@@ -21,7 +21,7 @@ Before running the scripts and queries in this repository, ensure the following 
             pip install google-api-python-client
             pip install pymongo
             pip install streamlit
-            pip install mysql 
+            pip install mysql-connector-python
             pip install pandas
 
 
