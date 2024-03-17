@@ -10,14 +10,19 @@ Prerequisites
 Before running the scripts and queries in this repository, ensure the following prerequisites are met:
 
 MongoDB Setup:  
-&nbsp;&nbsp;Install MongoDB shell and MongoDB Compass GUI.  
-&nbsp;&nbsp;Set up MongoDB on your system.  
+&nbsp;&nbsp;Install MongoDB shell
+&nbsp;&nbsp;&nbsp;&nbsp;Link to download: [Click to download](https://downloads.mongodb.com/compass/mongosh-2.2.0-win32-x64.zip)
+&nbsp;&nbsp;Install MongoDB Compass GUI.  
+&nbsp;&nbsp;&nbsp;&nbsp;Link to download: [Click to download](https://downloads.mongodb.com/compass/mongodb-compass-1.42.2-win32-x64.exe)
+&nbsp;&nbsp;Set up MongoDB on your system (Add the server bin and the mongosh.exe containing bin into the PATH variables).  
+
 
 MySQL Setup:  
 &nbsp;&nbsp;Install MySQL Workbench version 8.0.36 or higher.  
 &nbsp;&nbsp;&nbsp;&nbsp;Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525959)  
-&nbsp;&nbsp;Install and configure MySQL server 8.0.36.  
-&nbsp;&nbsp;&nbsp;&nbsp;Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525167)  
+&nbsp;&nbsp;Install MySQL server 8.0.36.  
+&nbsp;&nbsp;&nbsp;&nbsp;Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525167)   
+&nbsp;&nbsp;Confifure the server. (Leave them default).
 
 Python Libraries:  
 &nbsp;&nbsp;Install required Python libraries using pip:  
