@@ -14,7 +14,7 @@ Before running the scripts and queries in this repository, ensure the following 
 
     MySQL Setup:
         Install MySQL Workbench version 8.0.36 or higher.
-            Link to download: [https://dev.mysql.com/downloads/file/?id=525959](Click to download)
+            Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525959)
         Install and configure MySQL server 8.0.36.
             Link to download: [https://dev.mysql.com/downloads/file/?id=525167](Click to download)
 
