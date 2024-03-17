@@ -9,12 +9,14 @@ Prerequisites
 Before running the scripts and queries in this repository, ensure the following prerequisites are met:
 
     MongoDB Setup:
-        Install mongosh and MongoDB Compass.
+        Install MongoDB shell and MongoDB Compass GUI.
         Set up MongoDB on your system.
 
     MySQL Setup:
-        Install MySQL Workbench version 8.0 or higher.
-        Set up MySQL database and ensure it's accessible.
+        Install MySQL Workbench version 8.0.36 or higher.
+            Link to download: [https://dev.mysql.com/downloads/file/?id=525959](Click to download)
+        Install and configure MySQL server 8.0.36.
+            Link to download: [https://dev.mysql.com/downloads/file/?id=525167](Click to download)
 
     Python Libraries:
         Install required Python libraries using pip:
