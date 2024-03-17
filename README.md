@@ -9,24 +9,24 @@ Prerequisites
 
 Before running the scripts and queries in this repository, ensure the following prerequisites are met:
 
-MongoDB Setup:
-    Install MongoDB shell and MongoDB Compass GUI.
-    Set up MongoDB on your system.
+MongoDB Setup:  
+&nbsp;&nbsp;Install MongoDB shell and MongoDB Compass GUI.  
+&nbsp;&nbsp;Set up MongoDB on your system.  
 
-MySQL Setup:
-    Install MySQL Workbench version 8.0.36 or higher.
-        Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525959)
-    Install and configure MySQL server 8.0.36.
-        Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525167)
+MySQL Setup:  
+&nbsp;&nbsp;Install MySQL Workbench version 8.0.36 or higher.  
+&nbsp;&nbsp;&nbsp;&nbsp;Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525959)  
+&nbsp;&nbsp;Install and configure MySQL server 8.0.36.  
+&nbsp;&nbsp;&nbsp;&nbsp;Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525167)  
 
+Python Libraries:  
+&nbsp;&nbsp;Install required Python libraries using pip:  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install google-api-python-client  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install pymongo  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install streamlit  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install mysql-connector-python  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install pandas
 
-Python Libraries:
-    Install required Python libraries using pip:
-        pip install google-api-python-client
-        pip install pymongo
-        pip install streamlit
-        pip install mysql-connector-python
-        pip install pandas
 
 
 Files
