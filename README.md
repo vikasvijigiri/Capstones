@@ -18,7 +18,7 @@ Before running the scripts and queries in this repository, ensure the following 
 
     Python Libraries:
         Install required Python libraries using pip:
-            pip install googleapiclient
+            pip install google-api-python-client
             pip install pymongo
             pip install streamlit
             pip install mysql 
