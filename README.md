@@ -6,25 +6,27 @@ This repository contains scripts and queries for analyzing YouTube data. The dat
 
 Prerequisites
 
+
 Before running the scripts and queries in this repository, ensure the following prerequisites are met:
 
-    MongoDB Setup:
-        Install MongoDB shell and MongoDB Compass GUI.
-        Set up MongoDB on your system.
+MongoDB Setup:
+    Install MongoDB shell and MongoDB Compass GUI.
+    Set up MongoDB on your system.
 
-    MySQL Setup:
-        Install MySQL Workbench version 8.0.36 or higher.
-            Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525959)
-        Install and configure MySQL server 8.0.36.
-            Link to download: [https://dev.mysql.com/downloads/file/?id=525167](Click to download)
+MySQL Setup:
+    Install MySQL Workbench version 8.0.36 or higher.
+        Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525959)
+    Install and configure MySQL server 8.0.36.
+        Link to download: [Click to download](https://dev.mysql.com/downloads/file/?id=525167)
 
-    Python Libraries:
-        Install required Python libraries using pip:
-            pip install google-api-python-client
-            pip install pymongo
-            pip install streamlit
-            pip install mysql-connector-python
-            pip install pandas
+
+Python Libraries:
+    Install required Python libraries using pip:
+        pip install google-api-python-client
+        pip install pymongo
+        pip install streamlit
+        pip install mysql-connector-python
+        pip install pandas
 
 
 Files
