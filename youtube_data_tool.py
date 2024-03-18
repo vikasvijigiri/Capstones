@@ -50,7 +50,19 @@ def search_UI(youtube):
 # ONE 
 def get_youtube_api_build():
     st.set_page_config(layout="wide")  
-    st.markdown("<h1 style='text-align: center; color: blue;'>Welcome to Youtube data migration tool UI</h1><br><br>", unsafe_allow_html=True)
+    # Add custom CSS to set the background color to white
+    st.markdown(
+        """
+        <style>
+            body {
+                background-color: #ffffff;
+            }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+        
+    st.markdown("<h1 style='text-align: center; color: yellow;'>Welcome to Youtube data migration tool UI</h1><br><br>", unsafe_allow_html=True)
     #st.markdown("#### Enter a valid YouTube v3 API key (Public):")    
     st.markdown("<span style='color: green;'> API KEY  (Note: Default is entered below, change accordingly!) </span>", unsafe_allow_html=True)    
     # Text input for API_KEY
