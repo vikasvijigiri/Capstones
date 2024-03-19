@@ -46,7 +46,7 @@ Before running the scripts and queries in this repository, ensure the following 
 - Pandas, Matplotlib, Seaborn (optional)
 
 ## Usage
-- streamlit run youtube_data_tool.py
+- streamlit run main.py
 
 ## License
 
