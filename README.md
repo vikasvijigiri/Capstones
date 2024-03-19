@@ -33,7 +33,10 @@ Before running the scripts and queries in this repository, ensure the following 
 
 ## Files
 
-- `youtube_data_tool.py`: Consists all the code formatted in nice block fashion.
+- `main.py`: Consists main formatted code in nice block fashion.
+- `channel_data.py`: Module connsisting of functions related to channel data retreiving and storing in MongoDB.
+- `queries.py`: Module consisting of functions related to querying the stored data from MySQL server.
+- `server_details.py`: Module consisting of functions related to input details like API_KEY, MySQL and MongoDB server details.
 - `README.md`: This file providing an overview of the repository and its contents.
 
 ## Dependencies
